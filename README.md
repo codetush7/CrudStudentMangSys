@@ -78,4 +78,19 @@ finally:
 
 ⚙️ Code is easier to debug and maintain
 
+## 📸 Screenshots
+
+### ➕ Adding a Student
+![Add Student](screenshots/add_student.png)
+
+### 📖 Viewing Students
+![View Students](screenshots/view_students.png)
+
+### ✏️ Updating a Student
+![Update Student](screenshots/update_student.png)
+
+### ❌ Deleting a Student
+![Delete Student](screenshots/delete_student.png)
+
+
 
