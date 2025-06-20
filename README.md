@@ -81,16 +81,20 @@ finally:
 ## 📸 Screenshots
 
 ### ➕ Adding a Student
-![Add Student](screenshots/add_student.png)
+![Add Student](screenshots/insert.png)
 
 ### 📖 Viewing Students
-![View Students](screenshots/view_students.png)
+![View Students](screenshots/read.png)
 
 ### ✏️ Updating a Student
-![Update Student](screenshots/update_student.png)
+![Update Student](screenshots/update.png)
 
 ### ❌ Deleting a Student
-![Delete Student](screenshots/delete_student.png)
+![Delete Student](screenshots/delete.png)
+
+### 🚪 Exiting the Application
+![Exit](screenshots/exit.png)
+
 
 
 
